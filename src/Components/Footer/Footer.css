@@ -1,0 +1,50 @@
+
+footer {
+  background: var(--primary-color);
+  font-family: var(--text-display);
+  font-size: medium;
+  color: white;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  /* height: 7%; */
+  display: flex;
+  width: 100% !important;
+}
+
+.contact{
+  width: 50%;
+  /* text-align: center; */
+  display: flex;
+  /* flex-direction: row; */
+  align-items: center;
+  justify-content: center;
+}
+
+.contact >a{
+  padding-left: 3.5%;
+  text-decoration: none;
+}
+
+a:link {
+  color:white;
+}
+
+a:visited {
+  color: white;
+}
+
+.redes{
+  width:50%;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.redes >img{
+  width: 3%;
+  padding: 2%;
+}

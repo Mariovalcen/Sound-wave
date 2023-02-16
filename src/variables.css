@@ -1,0 +1,21 @@
+:root{
+    /* Color palette */
+    --general-background: #2F303A; 
+        /* Header, Footer,
+        Icons, Form Bck */
+    --primary-color: #202027;
+    --nav-hover: #202027;
+    --border-input: #2E3852;
+    --border-input-focus: ##596da0;
+    --button-bck: #1762A7;
+    --button-hover:#2180d8;
+    --button-focus:#2796ff;
+    --accent-text:#AE457E;
+    --circle-1:#412C41;
+    --circle-2:#303047;
+
+    /* Fuente */
+    --text-display: 'poppins',sans-serif; 
+    --text-size: 1.2rem; 
+
+}
